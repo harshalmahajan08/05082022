@@ -10,6 +10,7 @@ public class Base {
 		//System.setProperty(null, null);
 		WebDriverManager.chromedriver().setup();
 		//WebDriver driver= new ChromeDriver();
+		//hm
 	}
 
 }
